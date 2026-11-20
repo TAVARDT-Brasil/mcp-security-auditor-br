@@ -80,7 +80,7 @@ jobs:
 ## Ecossistema e Portais TAVARDT
 
 - **Portal Institucional**: [https://ag.tavardt.com/br/](https://ag.tavardt.com/br/)
-- **Central de Ferramentas TAVARDT**: [https://tools.tavardt.com/br/](https://tools.tavardt.com/br/)
+- **Central de Ferramentas**: [https://tools.tavardt.com/br/](https://tools.tavardt.com/br/)
 - **Canal de Atendimento e Suporte Técnico**: [https://ag.tavardt.com/br/contato/](https://ag.tavardt.com/br/contato/)
 
 ---
