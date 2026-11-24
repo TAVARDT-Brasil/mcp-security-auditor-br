@@ -73,7 +73,6 @@ jobs:
 
 ## Padrões Institucionais e Conformidade
 
-- **Jurisdição**: Brasil
 - **Referencial Técnico**: Diretrizes de Menor Privilégio para Agentes de IA e OWASP LLM
 - **Organização Mantenedora**: [TAVARDT-Brasil](https://github.com/TAVARDT-Brasil)
 
@@ -87,3 +86,7 @@ jobs:
 
 ### Licença
 Distribuído sob os termos da licença MIT. Consulte o arquivo [LICENSE](LICENSE) para maiores informações.
+
+***
+
+© 2026 TAVARDT. Todos os direitos reservados.
