@@ -74,7 +74,7 @@ jobs:
 ## Padrões Institucionais e Conformidade
 
 - **Referencial Técnico**: Diretrizes de Menor Privilégio para Agentes de IA e OWASP LLM
-- **Organização Mantenedora**: [TAVARDT-Brasil](https://github.com/TAVARDT-Brasil)
+
 
 ## Ecossistema e Portais TAVARDT
 
