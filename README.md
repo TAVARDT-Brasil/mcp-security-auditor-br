@@ -1,9 +1,8 @@
 # Auditor de Segurança para Servidores e Ferramentas MCP
 
-[![Live Demo](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-06b6d4?style=for-the-badge)](https://tavardt-brasil.github.io/mcp-security-auditor-br/)
-[![Standard](https://img.shields.io/badge/Standard-Least%20Privilege-3b82f6?style=for-the-badge)](https://tavardt-brasil.github.io/mcp-security-auditor-br/)
-[![Privacy](https://img.shields.io/badge/Privacy-100%25%20Client-Side-10b981?style=for-the-badge)](https://tavardt-brasil.github.io/mcp-security-auditor-br/)
-[![License](https://img.shields.io/badge/License-MIT-slate?style=for-the-badge)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-5b3cf5.svg)](https://tavardt-brasil.github.io/mcp-security-auditor-br/)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)](LICENSE)
 
 Auditor e verificador de segurança para servidores e ferramentas MCP (Model Context Protocol). Aplicação web client-side e CLI.
 
@@ -75,18 +74,7 @@ jobs:
 
 - **Referencial Técnico**: Diretrizes de Menor Privilégio para Agentes de IA e OWASP LLM
 
-## Ecossistema e Portais TAVARDT
 
-- **Portal Institucional**: [Portal Institucional](https://ag.tavardt.com/br/)
-- **Central de Ferramentas**: [Central de Ferramentas](https://tools.tavardt.com/br/)
-- **Canal de Atendimento e Suporte Técnico**: [https://ag.tavardt.com/br/contato/](https://ag.tavardt.com/br/contato/)
-
-***
-
-### Licença
-Distribuído sob os termos da licença MIT. Consulte o arquivo [LICENSE](LICENSE) para maiores informações.
-
-***
 
 ## Links Úteis
 
